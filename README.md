@@ -27,7 +27,7 @@ INSTRUCCIONES
   - 4: CLASE MEDIA: Ajusta el nivel de ingresos hacia nivel medio si hay centro comercial cerca
   - 5: HOSPITAL Y CENTRO COMERCIAL JUNTOS: Ajusta el nivel maximo si hay presencia de hospital y centro comercial entre los vecinos
   - 6: EDAD Y EDUCACION: Ajusta el nivel de ingreso basado en la edad y educacion (aleatorios)
-  - 7: SUBSIDIO: Ajusta el nivel de ingresado basado en las condiciones de nivel bajo y acceso al servicio
+  - 7: SUBSIDIO: Ajusta el nivel de ingreso basado en las condiciones de nivel bajo y acceso al servicio
 
 NOTA: para pasar de una a regla a otra (o editar las cantidades) no es necesario hacer setup, se podría hacer si su deseo es iniciar de 0 pero si desea ver el comportamiento del resultado de una regla a otra, lo puede hacer simplemente dando de nuevo en el botón go.
   
