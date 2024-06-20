@@ -17,7 +17,8 @@ INSTRUCCIONES
   - Debe seleccionar la regla que desee implementar en el selected-rule
   - Debe seleccionar el número de barrios (debe ser mayor a 1, si selecciona 0 este no lo dejará realizar el ejercicio)
   - Debe seleccionar la cantidad de centros comerciales, hospitales, ollas y zonas de agua no potable para el ejercicio ( aqui no hay conflicto si elije 0)
-  - para inicializar presiona setup y de allí puede correr el ejercicio manualmente con el go de arriba o de manera continua con el go de abajo
+  - Para inicializar presiona setup y de allí puede correr el ejercicio manualmente con el go de arriba o de manera continua con el go de abajo
+  - Al estar corriendo continuamente el ejercicio el botón de go queda en color oscuro... para detener el ejercicio se debe volver a presionar el botón o el quedará realizando ticks así no se vea reflejado en el gráfico
 
 3- Para entender mas sobre las reglas implementadas, tener en cuenta:
   - 1: MEDIA PONDERADA: Ajusta el nivel de ingreso según el promedio de vecinos
